@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/pratik280" target="blank"><img src="https://img.shields.io/twitter/follow/pratik280?logo=twitter&style=for-the-badge" alt="pratik280" /></a> </p>
 
-- 🌱 I’m currently learning **Devops, React Native, Cloud**
+- 🌱 I have a keen interest in the following technologies: **Devops, Docker, Podman, Cloud (AWS), Javascript, HTML/CSS/Tailwind-css, React, React-native, Bash, Linux Desktop**.
 
-- 👨‍💻 All of my projects are available at [https://pratik280.github.io/](https://pratik280.github.io/)
+- 👨‍💻 My Website : [https://pratik280.github.io/](https://pratik280.github.io/)
 
-- 📝 I regularly write articles on [https://pratik280.hashnode.dev/](https://pratik280.hashnode.dev/)
+- 📝 Hashnode:  [https://pratik280.hashnode.dev/](https://pratik280.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
