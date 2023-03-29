@@ -10,8 +10,8 @@ As a passionate technology enthusiast, I am currently learning and exploring the
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/pratik280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratik280" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratik280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik280" height="30" width="40" /></a>
+<a href="https://twitter.com/pratikchandlekr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="pratikchandlekr Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pratik280" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="pratik280" height="30" width="40" /></a>
 </p>
 
 #
