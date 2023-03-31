@@ -9,20 +9,23 @@ As a passionate technology enthusiast, I am currently learning and exploring the
 - 📝 Blogs:  [https://pratik280.hashnode.dev/](https://pratik280.hashnode.dev/)
 
 <h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://twitter.com/pratikchandlekr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="pratikchandlekr Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratik280" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="pratik280" height="30" width="40" /></a>
-</p>
 
-#
+ <a href="https://twitter.com/pratikchandlekr" target="_blank" >
+    <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+ <a href="https://linkedin.com/in/pratik280" target="_blank" >
+  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-### Stats
+</br>
+
+## Stats:
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pratik280&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pratik280/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pratik280&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/pratik280/github-readme-stats#gh-light-mode-only)
 
 
-### Languages and Tools
+## Languages and Tools:
 
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
