@@ -4,7 +4,7 @@
 
 Building secure, production-grade REST APIs for transaction monitoring and payment systems. Skilled in Hibernate multitenancy, PostgreSQL optimization, API security, CI/CD, Docker, Helm, AKS, and observability using ELK, Prometheus, and Grafana.
 
-[My Website](https://pratik280.github.io/) • [Blog](https://pratik280.hashnode.dev/) • [LinkedIn](https://www.linkedin.com/in/pratik280/) • [Twitter](https://twitter.com/pratikchandlekr)
+[My Website](https://pratik280.hashnode.dev/page/about) • [Blog](https://pratik280.hashnode.dev/) • [LinkedIn](https://www.linkedin.com/in/pratik280/) • [Twitter](https://twitter.com/pratikchandlekr)
 
 ---
 
