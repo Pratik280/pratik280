@@ -1,65 +1,64 @@
 # 🏄‍♂️ Pratik Chandlekar
 
-**`Software Development, Devops, Cloud and Linux User`**
+**Software Engineer | Spring Boot & Spring Cloud Microservices | Payments & Transaction Systems**  
 
-As a passionate technology enthusiast, I am currently learning and exploring the domains of DevOps and Cloud. Alongside, I am also working with Kafka and Spring Boot. I am keen on developing my skills in Frontend Development, JavaScript, React, and App Development using React Native. My love for challenges and eagerness to learn new things have been the driving forces in my career so far. Furthermore, I am an enthusiast of Linux desktop and always on the lookout for ways to enhance my knowledge and expertise.
+Building secure, production-grade REST APIs for transaction monitoring and payment systems. Skilled in Hibernate multitenancy, PostgreSQL optimization, API security, CI/CD, Docker, Helm, AKS, and observability using ELK, Prometheus, and Grafana.
 
-- 👨‍💻 My Website: [https://pratik280.github.io/](https://pratik280.github.io/)
+[My Website](https://pratik280.github.io/) • [Blog](https://pratik280.hashnode.dev/) • [LinkedIn](https://www.linkedin.com/in/pratik280/) • [Twitter](https://twitter.com/pratikchandlekr)
 
-- 📝 Blogs:  [https://pratik280.hashnode.dev/](https://pratik280.hashnode.dev/)
+---
 
-<h4 align="left">Connect with me:</h4>
+## 🛠 Tech Stack
 
- <a href="https://twitter.com/pratikchandlekr" target="_blank" >
-    <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
- <a href="https://linkedin.com/in/pratik280" target="_blank" >
-  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+### 💻 Languages
+Java | JavaScript | SQL
 
-</br>
+### ⚙️ Frameworks
+Spring Boot | Spring Cloud | Spring MVC | Hibernate / JPA | REST API Design
 
-## Stats:
+### 🧩 Microservices & Networking
+Eureka | Spring Cloud Gateway | Nginx | SSL & Networking
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pratik280&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pratik280/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pratik280&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/pratik280/github-readme-stats#gh-light-mode-only)
+### 🚀 DevOps & CI/CD
+Jenkins | GitHub CI | Docker | Kubernetes & Helm | Nexus
 
+### ☁️ Cloud
+AWS | Azure (AKS) | OCI
 
-## Languages and Tools:
+### 🗄 Databases & Caching
+PostgreSQL | Redis | Database Sharding | Multitenancy
 
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-<img align="left" alt="Kafka" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="React-native" width="30px" style="padding-right:10px;" src="https://reactnative.dev/img/header_logo.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" />
-<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+### 📊 Monitoring & Logging
+ELK Stack | Prometheus | Grafana
 
-<!-- 
+---
 
-### 📊 Stats
+## 🏆 Certifications
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pratik280&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pratik280/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pratik280&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/pratik280/github-readme-stats#gh-light-mode-only)
+- **AWS Certified Cloud Practitioner** – June 2024
 
+---
 
+## 🎓 Education
 
-#
-<details>
- <summary><h3>👨‍💻 Pratik's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
-  
- -->
+**B.E., Computer Science** – University of Mumbai | GPA: 8.68 (2018–2022)
+
+---
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik280/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pratikchandlekr) 
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://pratik280.github.io/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratik280)
+
+---
+
+## ⚡ Key Highlights
+
+- Built **Spring Boot microservices** for payment routing & transaction dashboards  
+- Implemented **schema-based multitenancy** using Hibernate JPA  
+- Optimized **PostgreSQL queries** & API performance  
+- CI/CD pipelines with **Docker, Helm, Jenkins** deployed to **Azure AKS**  
+- Observability with **ELK Stack, Prometheus, Grafana**  
+
